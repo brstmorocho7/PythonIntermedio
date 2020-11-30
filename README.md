@@ -36,5 +36,5 @@ trae la experiencia de construir programas reales.
 - Cristhian Jimenez, https://github.com/michael-jmz
 - Anthony Ortiz, https://github.com/AnthonyOrtiz
 - Ximena Puchaicela, https://github.com/Ximena1998
-
+- Braulio Morocho, https://github.com/brstmorocho7
 
